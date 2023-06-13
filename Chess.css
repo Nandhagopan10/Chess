@@ -7,6 +7,7 @@ body {
     display: grid;
     place-items: center;
     overflow-x: hidden;
+    background-color:   #fff;
 }
 
 h1 {
